@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663211433 source:c:\users\dnco\desktop\c++\54_ctdl\th_ctdl\bai1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

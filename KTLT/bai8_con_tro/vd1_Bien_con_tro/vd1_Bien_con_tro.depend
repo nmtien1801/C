@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648616742 source:c:\users\dnco\desktop\c++\ktlt\bai8_con_tro\vd1_bien_con_tro\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

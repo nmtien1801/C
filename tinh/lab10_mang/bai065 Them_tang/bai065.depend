@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639630558 source:c:\users\dnco\desktop\c++\tinh\lab10_mang\bai065\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

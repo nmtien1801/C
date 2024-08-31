@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638593479 source:c:\users\dnco\desktop\c++\tinh\lab09\bai057_sinx\main.c
+	<stdio.h>
+	<stdlib.h>
+

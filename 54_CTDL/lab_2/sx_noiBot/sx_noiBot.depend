@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661922800 source:c:\users\dnco\desktop\c++\54_ctdl\lab_2\sx_noibot\main.cpp
+	<stdio.h>
+	<random>
+	<stdlib.h>
+	<ctime>
+

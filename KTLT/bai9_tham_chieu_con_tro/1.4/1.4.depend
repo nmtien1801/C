@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646420295 source:c:\users\dnco\desktop\c++\ktlt\bai9_tham_chieu_con_tro\1.4\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+

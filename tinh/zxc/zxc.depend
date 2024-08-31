@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635215792 source:c:\users\admin\desktop\c++\tinh\zxc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652634865 source:c:\users\dnco\desktop\c++\tinh\zxc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

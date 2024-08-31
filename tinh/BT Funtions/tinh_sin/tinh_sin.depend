@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638149129 source:c:\users\dnco\desktop\c++\tinh\bt funtions\tinh_sin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

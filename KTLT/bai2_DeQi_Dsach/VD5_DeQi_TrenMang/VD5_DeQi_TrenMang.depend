@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646800112 source:c:\users\dnco\desktop\c++\ktlt\bai2_deqi_dsach\vd5_deqi_trenmang\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

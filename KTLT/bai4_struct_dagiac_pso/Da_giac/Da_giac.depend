@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643564806 source:c:\users\dnco\desktop\c++\ktlt\bai3_chuoi\da_giac\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1648609271 source:c:\users\dnco\desktop\c++\ktlt\bai4_struct_dagiac_pso\da_giac\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

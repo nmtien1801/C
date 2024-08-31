@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647904970 source:c:\users\dnco\desktop\c++\ktlt\bai4_struct_dagiac_pso\phan_so\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

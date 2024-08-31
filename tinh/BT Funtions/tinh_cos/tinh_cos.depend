@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638147855 source:c:\users\dnco\desktop\c++\tinh\bt funtions\tinh_cos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

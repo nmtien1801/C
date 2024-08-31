@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638668553 source:c:\users\dnco\desktop\c++\tinh\lab10\bai066_xoa_ptx_mang\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638668599 source:c:\users\dnco\desktop\c++\tinh\lab10_mang\bai066_xoa_ptx_mang\main.c
+	<stdio.h>
+	<stdlib.h>
+

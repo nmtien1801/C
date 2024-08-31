@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644597532 source:c:\users\dnco\desktop\c++\ktlt\bai6_quanlysv_dientich\quan_ly_sv\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

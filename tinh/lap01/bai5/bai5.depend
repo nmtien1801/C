@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634010224 source:c:\users\admin\desktop\c++\tinh\hoclaptrinh\bai5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645852311 source:c:\users\dnco\desktop\c++\ktlt\bai7_file\vd4_ham_con_tro\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+

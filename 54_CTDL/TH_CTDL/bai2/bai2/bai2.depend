@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663826605 source:c:\users\dnco\desktop\c++\54_ctdl\th_ctdl\bai2\bai2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<random>
+

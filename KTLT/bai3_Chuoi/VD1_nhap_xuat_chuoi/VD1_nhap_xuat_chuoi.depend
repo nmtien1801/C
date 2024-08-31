@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643501350 source:c:\users\dnco\desktop\c++\ktlt\bai3_chuoi\vd1_nhap_xuat_chuoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

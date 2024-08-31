@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652242800 source:c:\users\dnco\desktop\c++\ktlt\bai7_file\sinhvien\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635406122 source:c:\users\admin\desktop\c++\tinh\lap04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

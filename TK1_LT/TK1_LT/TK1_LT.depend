@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650773669 source:c:\users\dnco\desktop\c++\tk1_lt\tk1_lt\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+

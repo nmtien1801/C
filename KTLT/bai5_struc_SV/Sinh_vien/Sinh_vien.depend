@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643849021 source:c:\users\dnco\desktop\c++\ktlt\bai5_struc_phan_ra\sinh_vien\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+
